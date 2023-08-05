@@ -2,9 +2,10 @@
 This Google Colab notebook provides a step-by-step guide for training a BERT model for spam and scam detection on Instagram comments. Follow the instructions in the notebook to train and fine-tune the BERT model using the provided dataset. Additionally, you can compare the results with three other models (Decision Tree, Linear Regression, Random Forest).
 
 ## Related repositories
-- https://github.com/stefanerben/ig_scraper
-- https://github.com/stefanerben/ig_spam_api
-- https://github.com/stefanerben/ig_spam_extension
+- [https://github.com/ScamSpot/scamspot_ml-models/](https://github.com/ScamSpot/scamspot_ml-models/)
+- [https://github.com/ScamSpot/scamspot_ig-comment-scraper](https://github.com/ScamSpot/scamspot_ig-comment-scraper)
+- [https://github.com/ScamSpot/scamspot_api/](https://github.com/ScamSpot/scamspot_api/)
+- [https://github.com/ScamSpot/scamspot_chrome-extension/](https://github.com/ScamSpot/scamspot_chrome-extension/)
 
 ## Features
 Utilizes the powerful BERT (Bidirectional Encoder Representations from Transformers) model for natural language processing
